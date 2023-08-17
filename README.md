@@ -5,7 +5,7 @@ A operadora de celular Megaline está insatisfeita com o fato de muitos de seus 
 Temos acesso a dados de comportamento dos assinantes que já mudaram para os novos planos (do projeto do curso de Análise de Dados Estatísticos). Para esta tarefa de classificação, precisei desenvolver um modelo que escolherá o plano certo. 
 Para isso, desenvolvi um modelo com a maior acurácia possível. Neste projeto, o limite para acurácia é 0,75. 
 
-## Instruções do projeto:
+## Instruções do projeto
 1.	Abri e examine o arquivo de dados. Caminho para o arquivo: /datasets/users_behavior_upd.csv Baixar o conjunto de dados
 2.	Dividi os dados de origem em um conjunto de treinamento, um conjunto de validação e um conjunto de teste.
 3.	Investiguei a qualidade de diferentes modelos alterando hiperparâmetros. Descrevi brevemente os resultados do estudo.
