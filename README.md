@@ -11,7 +11,7 @@ Para isso, desenvolvi um modelo com a maior acurácia possível. Neste projeto, 
 3.	Investiguei a qualidade de diferentes modelos alterando hiperparâmetros. Descrevi brevemente os resultados do estudo.
 4.	Verifiquei a qualidade do modelo usando o conjunto de teste.
 
-## Descrição de dados
+## Descrição dos dados
 Cada observação no conjunto de dados contém informações comportamentais mensais sobre um usuário. As informações dadas são as seguintes:
 -	сalls — número de chamadas
 -	minutes — duração total da chamada em minutos
